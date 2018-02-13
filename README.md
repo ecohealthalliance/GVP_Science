@@ -1,5 +1,5 @@
 # GVP_Science
-Data and Code to reproduce the estimates in Carroll et al. 2018, "The Global Virome Project."
+Data and Code to reproduce the supplementary materials of Carroll et al. 2018, "The Global Virome Project."
 
 ### Listing of files
 
@@ -11,6 +11,7 @@ Data and Code to reproduce the estimates in Carroll et al. 2018, "The Global Vir
 ├── data/
 |   ├── macaque_data.xlsx                          | macaque viral discovery matrix from DOI:10.1038/ncomms9147
 |   ├── pteropus_data.csv                          | bat viral discovery matrix from DOI:10.1128/mBio.00598-13
+|   ├── GVP_costs_from_anthony2013.xlsx            | calculations to determine costs of GVP, based on supplementary material from DOI:10.1128/mBio.00598-13
 |   ├── output                                 
 |   |   ├── macaca_estimates_by_viral_family.csv   | macaque viral estimates at the family level
 |   └── └── pteropus_estimates_by_viral_family.csv | pteropus viral estimates at the family level
