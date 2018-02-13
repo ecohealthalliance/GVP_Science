@@ -1,4 +1,7 @@
 # GVP_Science
+
+[![DOI](https://zenodo.org/badge/121411470.svg)](https://zenodo.org/badge/latestdoi/121411470)
+
 Data and Code to reproduce the supplementary materials of Carroll et al. 2018, "The Global Virome Project."
 
 ### Listing of files
