@@ -33,10 +33,6 @@
   "description": "This compendium includes the code, data, documentation, metadata and figure source files that accompany this research.",
   "access_right": "open",
   "related_identifiers": [{
-      "identifier": "",
-      "relation": "isSupplementTo",
-      "scheme": "doi"
-    }, {
     "identifier": "http://github.com/ecohealthalliance/GVP_Science",
     "relation": "isIdenticalTo",
     "scheme": "url"
